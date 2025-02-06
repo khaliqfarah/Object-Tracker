@@ -1,2 +1,2 @@
 # Object Tracker
-My first attemp at using TensorFlow
+My first attempt at using TensorFlow
